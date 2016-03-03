@@ -1,0 +1,283 @@
+{
+	"MATH 201":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 202":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 203":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 391":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 392":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"CHEM 103.01":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"CSC 102":{
+			"category": "SCIENCES",
+			"F_grade": "D-"
+		},
+	"PHYS 207":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"PHYS 208":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"PHYS 323":{
+			"category": "SCIENCES",
+			"F_grade": "D-"
+		},
+	"ENGR 101":{
+			"category": "ENGINEERING"
+		},
+	"ENGR 103":{
+			"category": "ENGINEERING"
+		},
+	"ENGR 204":{
+			"category": "ENGINEERING"
+		},
+	"ENGR 276":{
+			"category": "ENGINEERING"
+		},
+	"EE 205":{
+			"category": "EE CORE"
+		},
+	"EE 210":{
+			"category": "EE CORE"
+		},
+	"EE 221":{
+			"category": "EE CORE"
+		},
+	"EE 241":{
+			"category": "EE CORE"
+		},
+	"EE 259":{
+			"category": "EE CORE"
+		},
+	"EE 306":{
+			"category": "EE CORE"
+		},
+	"EE 311":{
+			"category": "EE CORE"
+		},
+	"EE 312":{
+			"category": "EE CORE"
+		},
+	"EE 322":{
+			"category": "EE CORE"
+		},
+	"EE 330":{
+			"category": "EE CORE"
+		},
+	"EE 339":{
+			"category": "EE CORE"
+		},
+	"EE 344":{
+			"category": "EE CORE"
+		},
+	"EE 425":{
+			"category": "EE CORE"
+		},
+	"EE 598.66":{
+			"category": "EE CORE"
+		},
+	"EE 598.67":{
+			"category": "EE CORE"
+		},
+	"EE 342":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES"
+		},
+	"EE 371":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES"
+		},
+	"EE 333":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES"
+		},
+	"EE 441":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES"
+		},
+	"EE 422":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 428":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 343":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 323":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 421":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 423":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 426":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 427":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 429":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"EE 510.01":{
+			"category": "EE LAB ELECTIVES"
+		},
+	"MATH 328":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR 230":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 357":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 460":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 463":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE G65.30":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"CHEM 104.01":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"CSC 318":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"CSC 342":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"MATH 328":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR I06":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR I11":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR I12":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR 300":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ENGR 301":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 438":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 450":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 451":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 452":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 453":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 454":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 455":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 456":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 457":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 458":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 458":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 460":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 462":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 453":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 454":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 471":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 510.03":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"BME 501":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"BME 502":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"BME 503":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"BME 505":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"PHYS 452":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"ECO 102.50":{
+			"category": "LIBERAL ARTS"
+		},
+	"ECO 103.50":{
+			"category": "LIBERAL ARTS"
+		},
+	"PSY 102":{
+			"category": "LIBERAL ARTS"
+		},
+	"PSY 203":{
+			"category": "LIBERAL ARTS"
+		},
+	"WCIV 101":{
+			"category": "LIBERAL ARTS"
+		},
+	"ENGL 110":{
+			"category": "ENGLISH",
+			"or":"ENGL 100.26"
+		},
+	"ENGL 100.26":{
+			"category": "ENGLISH",
+			"or":"ENGL 110"
+		},
+	"ENGL 210.07":{
+			"category": "ENGLISH"
+		}
+	
+}
