@@ -1,32 +1,18 @@
-<<<<<<< HEAD
 <?php $version = '2014101477';  ?>
-=======
->>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 <head>
   <title>Student Degree Audit Generator</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css<?php echo "?ver=$version"; ?>">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js<?php echo "?ver=$version"; ?>"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js<?php echo "?ver=$version"; ?>"></script>
 	<script src="index.js<?php echo "?ver=$version"; ?>" language="JavaScript" type="text/javascript"></script>
-=======
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-	<script src="index.js" language="JavaScript" type="text/javascript"></script>
->>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 </head>
 <body>
 
 
 <?php
-<<<<<<< HEAD
 	$placeholder = "Example:
-=======
-	$placeholder = "Example: 
->>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 2013-02   ENGR   276     3.00  A      Engrng Economics";
 
 
