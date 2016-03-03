@@ -1,4 +1,8 @@
 $(document).ready(function(){
+<<<<<<< HEAD
+=======
+	
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 
 	$('#generate').click(function(){
 		

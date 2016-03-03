@@ -26,8 +26,11 @@
 
 			foreach($input_lines as $line)
 			{
+<<<<<<< HEAD
 				if($line == null){}
 				else{
+=======
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 				$line1 = preg_replace("/\s+/"," ",$line);
 				$line = explode(" ",$line1);
 
@@ -59,14 +62,20 @@
 				}
 
 
+<<<<<<< HEAD
 				$Cat2 ="";
+=======
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 				foreach($EEcur_json as $key=>$EEcur)
 				{
 					if($code  == $key)
 					{
 						$Cat = $EEcur['category'];
+<<<<<<< HEAD
 						$Cat2 = $EEcur['category2'];
 
+=======
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 						$F_grade =isset($EEcur['F_grade'])?$EEcur['F_grade']:null;
 						if($or == null) //Courses that are interchangable with other classes
 						{
@@ -126,9 +135,12 @@
 						$output_EER.array_push($output_EER,$output);
 						asort($output_EER);
 					}
+<<<<<<< HEAD
 					else{
 						$Cat = $Cat2;
 					}
+=======
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 				}
 				else if($Cat == 'EE LAB ELECTIVES')
 				{
@@ -173,7 +185,10 @@
 
 
 				$i++;
+<<<<<<< HEAD
 				}
+=======
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 			}
 
 

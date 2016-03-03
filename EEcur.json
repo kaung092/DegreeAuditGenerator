@@ -97,6 +97,7 @@
 			"category": "EE CORE"
 		},
 	"EE 342":{
+<<<<<<< HEAD
 			"category": "EE RESTRICTED ELECTIVES",
 			"category2": "LECTURE ELECTIVES"
 		},
@@ -111,6 +112,18 @@
 	"EE 441":{
 			"category": "EE RESTRICTED ELECTIVES",
 			"category2": "LECTURE ELECTIVES"
+=======
+			"category": "EE RESTRICTED ELECTIVES"
+		},
+	"EE 371":{
+			"category": "EE RESTRICTED ELECTIVES"
+		},
+	"EE 333":{
+			"category": "EE RESTRICTED ELECTIVES"
+		},
+	"EE 441":{
+			"category": "EE RESTRICTED ELECTIVES"
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 		},
 	"EE 422":{
 			"category": "EE LAB ELECTIVES"
@@ -160,7 +173,11 @@
 	"EE G65.30":{
 			"category": "LECTURE ELECTIVES"
 		},
+<<<<<<< HEAD
 	"CHEM 104.01":{
+=======
+	"CHEM 104":{
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 			"category": "LECTURE ELECTIVES"
 		},
 	"CSC 318":{
@@ -187,9 +204,21 @@
 	"ENGR 301":{
 			"category": "LECTURE ELECTIVES"
 		},
+<<<<<<< HEAD
 	"EE 438":{
 			"category": "LECTURE ELECTIVES"
 		},
+=======
+	"EE 333":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 438":{
+			"category": "LECTURE ELECTIVES"
+		},
+	"EE 441":{
+			"category": "LECTURE ELECTIVES"
+		},
+>>>>>>> 6ddb9d011a118c6f355a4e53feb334371da46cc5
 	"EE 450":{
 			"category": "LECTURE ELECTIVES"
 		},
