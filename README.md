@@ -2,8 +2,7 @@
 ## Synopsis
 
 This web application generate student degree audit based on class information entered. 
-The system currently in use at City College of New York does not create degree audit, which resulted in manual tasks for advisors across academic departments and long waiting time for students who just want to see their graduation status.
-
+The system currently in use at City College of New York does not create degree audit, which resulted in manual tasks for academic advisors and a excruciatingly long waiting time for students who just want to see their graduation status.
 
 ## How it works
 
