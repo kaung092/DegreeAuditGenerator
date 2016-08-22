@@ -1,0 +1,361 @@
+{
+	"MATH 201":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 202":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 203":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 391":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"MATH 392":{
+			"category": "MATHEMATICS",
+			"F_grade": "C-"
+		},
+	"CHEM 103.01":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"CSC 102":{
+			"category": "SCIENCES",
+			"F_grade": "D-"
+		},
+	"PHYS 207":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"PHYS 208":{
+			"category": "SCIENCES",
+			"F_grade": "C-"
+		},
+	"PHYS 323":{
+			"category": "SCIENCES",
+			"F_grade": "D-"
+		},
+	"ENGR 101":{
+			"category": "ENGINEERING",
+			"F_grade": "F"
+		},
+	"ENGR 103":{
+			"category": "ENGINEERING",
+			"F_grade": "F"
+		},
+	"ENGR 204":{
+			"category": "ENGINEERING",
+			"F_grade": "F"
+		},
+	"ENGR 276":{
+			"category": "ENGINEERING",
+			"F_grade": "F"
+		},
+	"EE 205":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 210":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 221":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 241":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 259":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 306":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 311":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 312":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 322":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 330":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 339":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 344":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 425":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 598.66":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 598.67":{
+			"category": "EE CORE",
+			"F_grade": "F"
+		},
+	"EE 342":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 371":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 333":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 441":{
+			"category": "EE RESTRICTED ELECTIVES",
+			"category2": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 422":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 428":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 343":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 323":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 421":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 423":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 426":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 427":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 429":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 510.01":{
+			"category": "EE LAB ELECTIVES",
+			"F_grade": "F"
+		},
+	"MATH 328":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR 230":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 357":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 460":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 463":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE G65.30":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"CHEM 104.01":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"CSC 318":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"CSC 342":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"MATH 328":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR I06":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR I11":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR I12":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR 300":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ENGR 301":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 438":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 450":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 451":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 452":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 453":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 454":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 455":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 456":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 457":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 458":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 458":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 460":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 462":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 453":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 454":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 471":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"EE 510.03":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"BME 501":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"BME 502":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"BME 503":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"BME 505":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"PHYS 452":{
+			"category": "LECTURE ELECTIVES",
+			"F_grade": "F"
+		},
+	"ECO 102.50":{
+			"category": "LIBERAL ARTS",
+			"F_grade": "F"
+		},
+	"ECO 103.50":{
+			"category": "LIBERAL ARTS",
+			"F_grade": "F"
+		},
+	"PSY 102":{
+			"category": "LIBERAL ARTS",
+			"F_grade": "F"
+		},
+	"PSY 203":{
+			"category": "LIBERAL ARTS",
+			"F_grade": "F"
+		},
+	"WCIV 101":{
+			"category": "LIBERAL ARTS",
+			"F_grade": "F"
+		},
+	"ENGL 110":{
+			"category": "ENGLISH",
+			"or":"ENGL 100.26",
+			"F_grade": "F"
+		},
+	"ENGL 100.26":{
+			"category": "ENGLISH",
+			"or":"ENGL 110",
+			"F_grade": "F"
+		},
+	"ENGL 210.07":{
+			"category": "ENGLISH",
+			"F_grade": "F"
+		}
+	
+}
