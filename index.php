@@ -6,11 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css<?php echo "?ver=$version"; ?>">
   <link rel="stylesheet" href="index.css">
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js<?php echo "?ver=$version"; ?>"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js<?php echo "?ver=$version"; ?>"></script>
 	<script src="index.js<?php echo "?ver=$version"; ?>" language="JavaScript" type="text/javascript"></script>
 </head>
 <body>
+
 
 <?php
 	$placeholder = "Example:
@@ -46,6 +48,7 @@
 					2013-02   	 ENGR		    204    	 3.00  	B      Electrical Circuits
 					</p>
 			</span>
+
 			<br>
 			<!--
 			<label>Student Last Name</label>

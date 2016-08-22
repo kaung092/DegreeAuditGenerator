@@ -149,46 +149,99 @@
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">MATHEMATICS </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 201</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 201</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">#F</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Calculus 1 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 202</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 201</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Calculus 1 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 202</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Calculus 2 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 203</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 203</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">&D</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Calculus 3 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 203</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+<Cell ss:StyleID="s62"><Data ss:Type="String">Calculus 3 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 391</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 391</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Meth Diff Equatns </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 392</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 392</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Lnr Alg-Vct Anl:Engr </Data></Cell>
 
 </Row>
@@ -196,6 +249,7 @@
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">SCIENCES</Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 323</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
@@ -209,37 +263,65 @@
 <Cell ss:StyleID="s62"><Data ss:Type="String">CHEM 103.01</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CHEM 103.01</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">General Lec-Lab 1 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CSC 102</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CSC 102</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Intro Computing </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 207</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 207</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">General </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 208</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 208</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">#F</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">General </Data></Cell>
 
 </Row>
 
+<<<<<<< HEAD
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">ENGINEERING </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
@@ -257,161 +339,330 @@
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Engr Design Wkshp 1 </Data></Cell>
+=======
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 208</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">General </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">PHYS 323</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Quant Mech App Phys </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">ENGINEERING </Data></Cell></Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 204</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Electrical Circuits </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 103</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">2.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 103</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">2.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">D</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Cmp Aid Anal Engrs </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 204</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Electrical Circuits </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 276</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Engrng Economics </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">EE CORE </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 205</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Linear Sys Anal 1 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 210</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Switching Systems </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 210</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Switching Systems </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 205</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">NC</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Linear Sys Anal 1 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 241</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Electronics 1 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 205</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Linear Sys Anal 1 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 221</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A+</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 221</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">E E Lab 1 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 259</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Programming For E E </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 241</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Electronics 1 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 306</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Linear Syst Anal 2 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 311</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Prob & Random Proc </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 312</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Commnctn Engrng </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 322</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">E E Lab 2 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 344</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Dgtl Comp Systems </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 259</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Programming For E E </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-06</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 322</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A+</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">E E Lab 2 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 306</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">D</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Linear Syst Anal 2 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-06</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 330</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A+</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-06</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 330</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Electromagnetics </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 339</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Smicndctr Mat Dev 1 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 312</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Commnctn Engrng </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 425</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">Computer Engrng Lab </Data></Cell>
-
-</Row>
-
-<Row ss:AutoFitHeight="0">
-<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">EE 598.66</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 344</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">Senior Design 1 </Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Dgtl Comp Systems </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
 <Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">EE 598.67</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">Senior Design 2 </Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 425</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+<Cell ss:StyleID="s62"><Data ss:Type="String">Computer Engrng Lab </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 598.66</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Senior Design 1 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 339</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C+</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Smicndctr Mat Dev 1 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 598.67</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Senior Design 2 </Data></Cell>
+=======
+<Cell ss:StyleID="s7"><Data ss:Type="String">2015-09</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">EE 598.66</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">IP</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">INC Senior Design 1 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 311</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Prob & Random Proc </Data></Cell>
+=======
+<Cell ss:StyleID="s7"><Data ss:Type="String">2016-02</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">EE 598.67</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">IP</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">Senior Design 2 </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
@@ -421,17 +672,29 @@
 <Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 342</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Electronics 2 </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s7"><Data ss:Type="String">2013-09</Data></Cell>
 <Cell ss:StyleID="s7"><Data ss:Type="String">EE 342</Data></Cell>
 <Cell ss:StyleID="s7"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s7"><Data ss:Type="String">IP</Data></Cell>
 <Cell ss:StyleID="s7"><Data ss:Type="String">*WN Electronics 2 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 333</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Anten-Mcrwv-Fib Opt </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
@@ -447,73 +710,129 @@
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">EE LAB ELECTIVES </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 422</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Analog Communctn Lab </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 428</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Photonics Engr Lab </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2016-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 323</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">E E Lab 3 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 422</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Analog Communctn Lab </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">LECTURE ELECTIVES </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 357</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Electric Power Engr </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2014-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 230</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Thermodynamics </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2013-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 463</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 463</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 <Cell ss:StyleID="s62"><Data ss:Type="String">Wireless Commncatn </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 460</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Cmptr Cmnctn Systms </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-06</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 438</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Engr Systems Mngmnt </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2016-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">EE 441</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Smicndctr Mat Dev 2 </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 357</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Electric Power Engr </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">ENGR 230</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Thermodynamics </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2015-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">EE 510.03</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Ind Stud/Proj </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">LIBERAL ARTS </Data></Cell></Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">2014-02</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">WCIV 101</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
@@ -539,10 +858,40 @@
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Freshmn Composition </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">PSY 102</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Psy In Modern World </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">ENGLISH </Data></Cell></Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ENGL 210.07</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Writing-Engineers </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0"><Cell ss:StyleID="s64"><Data ss:Type="String">OTHERS</Data></Cell></Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2009-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">FIQWS 100.26</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">4.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Engineering </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">ENGL 210.07</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
@@ -559,42 +908,161 @@
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Dvlpmnt U S & Peopl </Data></Cell>
-
-</Row>
-
-<Row ss:AutoFitHeight="0">
-<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">ART 100</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">Intro Principles </Data></Cell>
-
-</Row>
-
-<Row ss:AutoFitHeight="0">
-<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2009-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MATH 195</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">D</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Pre-Calculus </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
-<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">2009-09</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">MUS 101</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
-<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Introduction </Data></Cell>
 
 </Row>
 
 <Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2009-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">SPCH 111</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Speech Foundations </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
+<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ART 100</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ART 100</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C+</Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+<Cell ss:StyleID="s62"><Data ss:Type="String">Intro Principles </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
+<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MATH 195</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Pre-Calculus </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ANTH 255</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Anth Hlth & Healing </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
+<Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MUS 101</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Introduction </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2010-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">JAP 121</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Elem Japanese 1 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">JAP 122</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Elem Japanese 2 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">WHUM 102</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B+</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">World Humanities 2 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">ASTR 305</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">A-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Cncpts Of Astronomy </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2011-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CSC 104</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Discrete Structrs 1 </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2012-09</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CSC 212</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">C-</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Data Structures </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<<<<<<< HEAD
 <Cell ss:StyleID="s62"><Data ss:Type="String">transfer</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">SOC 251</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">CR</Data></Cell>
 <Cell ss:StyleID="s62"><Data ss:Type="String">Urban Sociology </Data></Cell>
+=======
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">CSC 221</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Software Dsgn Lab </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s62"><Data ss:Type="String">2013-02</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">MUS 154</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">1.00</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">W</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Beginning Piano </Data></Cell>
+
+</Row>
+
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="s7"><Data ss:Type="String">2010-02</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">MATH 195</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">3.00</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">IP</Data></Cell>
+<Cell ss:StyleID="s7"><Data ss:Type="String">&B- Pre-Calculus </Data></Cell>
+>>>>>>> 16f5011bc6c1460f85aa1d2a73929123ac2c408f
 
 </Row>
 

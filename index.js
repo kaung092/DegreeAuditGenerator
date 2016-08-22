@@ -19,6 +19,7 @@ $(document).ready(function(){
 						success:function(result){
 				//				alert(result);
 							window.location.href ='/generateExcel/Download.php';
+
 							}
 					});
 			}
