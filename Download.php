@@ -8,45 +8,36 @@
     <link href="css/scrolling-nav.css" rel="stylesheet">
 </head>
 
-
 <body>
-
    <section id="services" class="services-section">
         <div class="container" style="text-align:center;margin-top:10%;">
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Download Excel</h1>
-												<br>
-												<p>
-															Student Degree Audit Excel Sheet is available to Download
-												</p>
-												<br>
-												<ul class="pager">
-													<li>
-																<a href="index.php" class="btn btn-info btn-lg" style= "background:skyblue">
-																	<span class="glyphicon glyphicon-repeat"></span> Generate New
-																</a>
+                        <br>
+                        <p>
+                                    Student Degree Audit Excel Sheet is available to Download
+                        </p>
+                        <br>
+                        <ul class="pager">
+                            <li>
+                                        <a href="index.php" class="btn btn-info btn-lg" style= "background:skyblue">
+                                            <span class="glyphicon glyphicon-repeat"></span> Generate New
+                                        </a>
 
-													</li>
-													<li>
-																<a href="excel_output/DegreeAudit.xls"  class="btn btn-info btn-lg" style = "background:green">
-																	<span class="glyphicon glyphicon-download-alt"></span> Download Excel
-																</a>
+                            </li>
+                            <li>
+                                        <a href="excel_output/DegreeAudit.xls"  class="btn btn-info btn-lg" style = "background:green">
+                                            <span class="glyphicon glyphicon-download-alt"></span> Download Excel
+                                        </a>
 
-													</li>
-												</ul>
-
-
+                            </li>
+                        </ul>
                 </div>
             </div>
         </div>
     </section>
-
-
-
 </body>
-
-
 
 </html>
 

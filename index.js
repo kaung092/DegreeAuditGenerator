@@ -17,10 +17,8 @@ $(document).ready(function(){
 									name: Name
 									},
 						success:function(result){
-				//				alert(result);
-							window.location.href ='/generateExcel/Download.php';
-
-							}
+							window.location.href = './Download.php';
+                        }
 					});
 			}
 		});
